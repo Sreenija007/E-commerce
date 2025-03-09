@@ -1,6 +1,6 @@
 ## Dataset
 Using the **Amazon Electronics Rating Dataset**, where each product and user is uniquely identified to avoid bias.  
-📌 [Dataset Link](https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation/download?datasetVersionNumber=1)
+ [Dataset Link](https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation/download?datasetVersionNumber=1)
 
 ## Approach
 
@@ -25,4 +25,3 @@ Using the **Amazon Electronics Rating Dataset**, where each product and user is 
    - Predict ratings for all users and recommend **top N products** based on predictions.
    - **Evaluate model** using **RMSE (Root Mean Squared Error)**.
 
-🚀 **This project is for learning purposes and demonstrates the workings of recommendation systems.**
